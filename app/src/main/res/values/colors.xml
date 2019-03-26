@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#213194</color>
+    <color name="colorPrimaryDark">#213194</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="bgBottomNavigation">#213194</color>
+
+
+
+
+
+    <color name="bgGradientStart">#000000</color>
+    <color name="bgGradientEnd">#d8000000</color>
+
+    <color name="bgSolidDark">#55000000</color>
+    <color name="transparent">#00ffffff</color>
+
+
+    <color name="colorPrimary1">#23A7D8</color>
+    <color name="colorPrimaryDark1">#213194</color>
+    <color name="colorAccent1">#400D9B</color>
+
+    <color name="GradStart">#EDFC568D</color>
+    <color name="Gradstop">#FAEC7C</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="trans">#000000</color>
+</resources>
